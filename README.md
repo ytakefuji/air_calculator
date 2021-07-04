@@ -34,9 +34,6 @@ $ python fingermath.py
 <pre>                    34*5=?                      2**8=?</pre>
 <img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240>  
 
+<pre> 128v3=? -> 128/3=?                           a11AV3=? -> sqrt(11)/3 </pre>            
+<img src='128div3.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 >
 
-<pre> 128v3=? -> 128/3=?                       </pre>            
-<img src='128div3.gif' width=320 height=240> height=240> 
-
-<pre>           a11AV3=? -> sqrt(11)/3</pre>
-<img src='sqrt(11)div3.gif' width=320 >
