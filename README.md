@@ -29,11 +29,11 @@ $ python fingermath.py
 <img src='Lw3.gif' width=320 height=240> <img src='10plus2.gif' width=320 height=240>
 
 <pre>        4-5-3=?                                2-3/5=?   </pre>
-<img src='4-5-3.gif' width=320 height=240> <img src='2-3divide_by5.gif' width=320 height=240> 
+<img src='4-5-3.gif' width=320 height=240> <img src='2-3divide_by5.gif' width=320 height=240>
 
-<pre>        34*5=?                                 2**8=?</pre>
+<pre>        34*5=?                            2**8=?</pre>
 <img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240>  
 
-<pre> 128v3=? -> 128/3=?                           a11AV3=? -> sqrt(11)/3 </pre>            
+<pre> 128v3=? -> 128/3=?                       a11AV3=? -> sqrt(11)/3 </pre>            
 <img src='128div3.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 >
 
