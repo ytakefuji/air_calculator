@@ -31,7 +31,7 @@ $ python fingermath.py
 <pre>          10+2=?                                34*5=? </pre>
 <img src='10plus2.gif' width=320 height=240> <img src='34M5.gif' width=320 height=240> 
 <pre>         67/8=?                                 9-0=?  </pre>
-<img src='67divided8.gif' width=320 height=240> <img src='Lw3.gif' width=320 height=240>
+<img src='Lw3.gif' width=320 height=240>
 
 <pre> 2**8=? </pre>
 <img src='2^8.gif' width=320 height=240> <img src='2^8.png' width=320 height=240>
