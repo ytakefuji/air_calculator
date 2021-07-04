@@ -26,9 +26,7 @@ The result will be shown on the screen.
 $ python fingermath.py
 <pre>  4-5-3=?  </pre>
 <img src='4-5-3.gif' width=320 height=240>
-<pre>
-2-3-5=?                                        2-3/5=?
-</pre>
+<pre>   2-3/5=?   </pre>
 <img src='2-3-5.gif' width=320 height=240> <img src='2-3divide_by5.gif' width=320 height=240> 
 <pre>
  10+2=?                                        34*5=?
