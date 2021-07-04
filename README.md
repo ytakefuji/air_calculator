@@ -24,9 +24,8 @@ The result will be shown on the screen.
 "a" and "A" represent sqrt() function. a13A represents sqrt(13).
 
 $ python fingermath.py
-<pre>
-
-<img src='5-3.gif' width=320 height=240> <img src='4-5-3.gif' width=320 height=240>
+<pre>  4-5-3=?  </pre>
+<img src='4-5-3.gif' width=320 height=240>
 <pre>
 2-3-5=?                                        2-3/5=?
 </pre>
