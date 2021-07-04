@@ -2,10 +2,20 @@
 
 # How to run fingermath.py
 
-fingermath.py is a program for drawing a formula, for example, 4-5.
-Drawing the formula by using a single finger. Move a pen by two fingers.
-Four fingers can save the formula for calculating it. 
-The result will be shown on the screen.
+fingermath.py is a program for drawing an expression, for example, 4-5.
+fingermath.py is based on mediapipe.
+There are six states of five fingers recognized by mediapipe library: 
+0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
+Drawing an expression by fingers with a pen of index finger tip. 
+1-finger can draw lines in the air. 
+2-finger can move the pen without drawing. 
+3-finger can reset the drawn picture or exit the program.
+4-finger can save the drawn expression for possible calculation. 
+0-finger or 5-finger is equivalent to 2-finger.
+The saved picture is tranformed into digital text using the state-of-the-art 
+optical character recognition.
+Drawing a line by a pen on a paper is very different from drawing in the air.
+From 0 to 9 digit number, 1 is the most difficult to be recognized.
 
 "L" represents "1".
 
