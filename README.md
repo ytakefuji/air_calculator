@@ -24,21 +24,18 @@ The result will be shown on the screen.
 "a" and "A" represent sqrt() function. a13A represents sqrt(13).
 
 $ python fingermath.py
-<pre>  4-5-3=?  </pre>
-<img src='4-5-3.gif' width=320 height=240>
-<pre>   2-3/5=?   </pre>
-<img src='2-3divide_by5.gif' width=320 height=240> 
 
-<pre>          10+2=?                           34*5=? </pre>
-<img src='10plus2.gif' width=320 height=240><img src='34M5.gif' width=320 height=240> 
-<pre>         1-3=?                  </pre>
-<img src='Lw3.gif' width=320 height=240>
+<pre>         1-3=?                                 10+2=?  </pre>
+<img src='Lw3.gif' width=320 height=240> <img src='10plus2.gif' width=320 height=240>
 
-<pre> 2**8=? </pre>
-<img src='2^8.gif' width=320 height=240> 
+<pre>  4-5-3=?                                       2-3/5=?   </pre>
+<img src='4-5-3.gif' width=320 height=240> <img src='2-3divide_by5.gif' width=320 height=240> 
 
-<pre> a3A=? -> sqrt(3)=?                            sqrt(13)=? </pre>
-<img src='sqrt.gif' width=320 height=240> <img src='sqrt13.gif' width=320 height=240> 
+<pre>                    34*5=?                      2**8=?</pre>
+<img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240> 
 
-<pre> 128v3=? -> 128/3=?                      a11AV3=? -> sqrt(11)/3 </pre>            
-<img src='128div3.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 height=240> 
+<pre>               sqrt(13)=?                       a11AV3=? -> sqrt(11)/3</pre>
+<img src='sqrt13.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 
+
+<pre> 128v3=? -> 128/3=?                       </pre>            
+<img src='128div3.gif' width=320 height=240> height=240> 
