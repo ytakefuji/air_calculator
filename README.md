@@ -37,6 +37,9 @@ From 0 to 9 digit number, 1 is the most difficult to be recognized.
 
 $ python fingermath.py
 
+https://youtu.be/med_jrFTMPA
+<img src='a6AM2.png' width=320 height=240>
+
 <pre>         1-3=?                                 10+2=?  </pre>
 <img src='Lw3.gif' width=320 height=240> <img src='10plus2.gif' width=320 height=240>
 
