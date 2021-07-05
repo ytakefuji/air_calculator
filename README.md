@@ -11,15 +11,21 @@ The number one "1" is replaced by "L" when drawing letters by fingers in air.
 # How to run fingermath.py
 
 fingermath.py is a program for drawing an expression, for example, 4-5.
+
 fingermath.py is based on mediapipe.
+
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
+<pre>
 Drawing an expression by fingers with a pen of index finger tip. 
+0-finger can move the pen without drawing. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
 3-finger can delete elements of the drawn picture for correction.
-4-finger can transform hand-written characters to the digital text 
-for calculating the expression. 
+4-finger can transform hand-written characters to the digital text for possible calculation.
+5-finger can can move the pen without drawing. 
+</pre>
+
 Continuous 4-finger state can terminate and exit this program.
 0-finger or 5-finger is equivalent to 2-finger.
 The saved picture is tranformed into digital text using the state-of-the-art 
