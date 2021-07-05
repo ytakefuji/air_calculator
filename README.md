@@ -21,7 +21,7 @@ Drawing an expression by fingers with a pen of index finger tip.
 0-finger can move the pen without drawing. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
-3-finger can delete elements of the drawn picture for correction.
+3-finger can delete elements of drawn letters for expression correction.
 4-finger can transform hand-written characters to the digital text for possible calculation.
 5-finger can can move the pen without drawing. 
 </pre>
