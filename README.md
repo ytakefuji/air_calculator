@@ -1,10 +1,10 @@
 # air_calculator
 
-Writing letters with a pen on paper is very different from writing letters in the air.
+Writing letters with a pen on paper is very different from drawing letters in the air.
 
-Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators are replaced by "W" and "P" in the air respectively.
+Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators are replaced by "W" and "P" respectively.
 
-The number one "1" is replaced by "L" when drawing letters by fingers in air.
+For example, the number one "1" is replaced by "L" when drawing letters by fingers in air.
 
 
 
@@ -17,20 +17,25 @@ fingermath.py is based on mediapipe.
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
 <pre>
-Drawing an expression by fingers with a pen of index finger tip. 
+A pen of index finger tip is used for drawing an expression by fingers. 
+
 0-finger can move the pen without drawing. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
 3-finger can delete elements of drawn letters for expression correction.
-4-finger can transform hand-written characters to the digital text for possible calculation.
+4-finger can transform hand-written letters to the digital text for possible calculation.
 5-finger can can move the pen without drawing. 
 </pre>
 
 Continuous 4-finger state can terminate and exit this program.
+
 0-finger or 5-finger is equivalent to 2-finger.
+
 The saved picture is tranformed into digital text using the state-of-the-art 
 optical character recognition.
-Drawing a line by a pen on a paper is very different from drawing in the air.
+
+Writing letters with a pen on paper is very different from drawing letters in the air.
+
 From 0 to 9 digit number, 1 is the most difficult to be recognized.
 
 "L" represents "1".
