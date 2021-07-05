@@ -2,7 +2,7 @@
 
 Writing letters with a pen on paper is very different from writing letters in the air.
 
-Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators are replaced by "W" and "P" respectively.
+Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators are replaced by "W" and "P" in the air respectively.
 
 "1" one  is replace with "L" in the air.
 
