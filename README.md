@@ -9,8 +9,10 @@ There are six states of five fingers recognized by mediapipe library:
 Drawing an expression by fingers with a pen of index finger tip. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
-3-finger can reset the drawn picture or exit the program.
-4-finger can save the drawn expression for possible calculation. 
+3-finger can delete elements of the drawn picture for correction.
+4-finger can transform hand-written characters to the digital text 
+for calculating the expression. 
+Continuous 4-finger state can terminate and exit this program.
 0-finger or 5-finger is equivalent to 2-finger.
 The saved picture is tranformed into digital text using the state-of-the-art 
 optical character recognition.
