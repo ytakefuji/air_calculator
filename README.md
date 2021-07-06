@@ -38,21 +38,21 @@ Writing letters with a pen on paper is very different from drawing letters in th
 
 From 0 to 9 digit number, 1 is the most difficult to be recognized.
 
-"L" represents "1".
+"L" in the air represents "1".
 
-"S" or "5" represents "5".
+"S" or "5" in the air represents "5".
 
-"P" represents "+" operator.
+"P" in the air represents "+" plus operator.
 
-"W" or "-" represents "-" operator.
+"W" or "-" represents "-" minus operator.
 
-"V" represents "/" division operator.
+"V" in the air represents "/" division operator.
 
-"M" represents "*" multiplication operator.
+"M" in the air represents "*" multiplication operator.
 
-"&" represents "\**" exponential operator.
+"&" in the air represents "\**" exponential operator.
 
-"a" and "A" represent sqrt() function. a13A represents sqrt(13).
+"a" and "A" in the air represent sqrt() function. a13A represents sqrt(13).
 
 $ python fingermath.py
 
