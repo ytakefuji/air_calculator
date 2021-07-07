@@ -36,9 +36,9 @@ optical character recognition.
 
 Writing letters with a pen on paper is very different from drawing letters in the air.
 
-From 0 to 9 digit number, 1 is the most difficult to be recognized.
+Of the 0 to 9 digits, 1 is the least recognizable number.
 
-"L" in the air represents "1".
+Drawing "L" in the air represents "1".
 
 "S" or "5" in the air represents "5".
 
@@ -52,7 +52,8 @@ From 0 to 9 digit number, 1 is the most difficult to be recognized.
 
 "&" in the air represents "\**" exponential operator.
 
-"a" and "A" in the air represent sqrt() function. a13A represents sqrt(13).
+Drawing two letters "a" and "A" in the air represents the sqrt() function.
+Therefore, the string "a13A" or "aL3A" represents sqrt(13).
 
 $ python fingermath.py
 
