@@ -19,13 +19,16 @@ fingermath.py is based on mediapipe.
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
 <pre>
-A pen of index finger tip is used for drawing an expression by fingers. 
+A pen of index finger tip is used for drawing an expression 
+by fingers. 
 
 0-finger can move the pen without drawing. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
-3-finger can delete elements of drawn letters for expression correction.
-4-finger can transform hand-written letters to the digital text for possible calculation.
+3-finger can delete elements of drawn letters for expression 
+correction.
+4-finger can transform hand-written letters to the digital text 
+for possible calculation.
 5-finger can can move the pen without drawing. 
 </pre>
 
