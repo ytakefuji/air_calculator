@@ -2,10 +2,12 @@
 
 Writing letters with a pen on paper is very different from drawing letters in the air.
 
-Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators are replaced by "W" and "P" respectively.
+Drawing "-" minus operator and "+" operator in the air are extremely difficult so that these operators in the current system are replaced by "W" and "P" respectively.
 
-For example, the number one "1" is replaced by "L" when drawing letters by fingers in air.
-
+When drawing letters with fingers in the air, letters that are difficult 
+to recognize or write in the air need to be replaced with letters 
+that can be accurately recognized by artificial intelligence.
+For example, replace the number "1" with "L" in the air.
 
 
 # How to run fingermath.py
