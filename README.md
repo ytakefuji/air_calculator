@@ -13,7 +13,7 @@ For example, replace the number "1" with "L" in the air.
 
 $ pip install pytesseract
 
-For Windows users, you should install the latest tesseract
+For Windows users, you should also install the latest tesseract
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
