@@ -17,6 +17,8 @@ For Windows users, you should also install the latest tesseract
 
 https://github.com/UB-Mannheim/tesseract/wiki
 
+And add tesseract.exe of Tesseract-OCR directory PATH in .profile or .bashrc.
+
 # How to run fingermath.py
 
 fingermath.py is a program for drawing an expression, for example, 4-5.
