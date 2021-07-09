@@ -9,6 +9,13 @@ to recognize or write in the air need to be replaced with letters
 that can be accurately recognized by artificial intelligence.
 For example, replace the number "1" with "L" in the air.
 
+# How to install necessary libraries
+
+$ pip install pytesseract
+
+For Windows users, you should install the latest tesseract
+
+https://github.com/UB-Mannheim/tesseract/wiki
 
 # How to run fingermath.py
 
