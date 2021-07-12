@@ -84,7 +84,7 @@ https://youtu.be/med_jrFTMPA
 <pre>        34*5=?                         2**8=?</pre>
 <img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240>  
 
-<pre>      2&9V3 --> 2**9/3                          2&9/3      </pre>
+<pre>      2&9V3 --> 2**9/3                          2**9/3      </pre>
 <img src='2^9div3.gif' width=320 height=240> <img src='r_2^9v3.png' width=320 height=240>
 
 <pre> 128v3=? -> 128/3=?                    a11AV3=? -> sqrt(11)/3 </pre>            
