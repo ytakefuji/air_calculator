@@ -85,5 +85,5 @@ https://youtu.be/med_jrFTMPA
 <img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240>  
 
 <pre> 128v3=? -> 128/3=?                    a11AV3=? -> sqrt(11)/3 </pre>            
-<img src='128div3.gif' width=320 height=240> <img src='sqrt(11)div3.gif' width=320 >
+<img src='128div3.gif' width=320 height=240> <img src='a11AV3.gif' width=320 >
 
