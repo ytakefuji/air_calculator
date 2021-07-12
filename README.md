@@ -79,7 +79,7 @@ https://youtu.be/med_jrFTMPA
 <img src='Lw3.gif' width=320 height=240> <img src='10plus2.gif' width=320 height=240>
 
 <pre>        4-5-3=?                                2-3/5=?   </pre>
-<img src='4-5-3.gif' width=320 height=240> <img src='2-3divide_by5.gif' width=320 height=240>
+<img src='4-5-3.gif' width=320 height=240> <img src='2-3div5.gif' width=320 height=240>
 
 <pre>        34*5=?                         2**8=?</pre>
 <img src='34M5.gif' width=320 height=240> <img src='2^8.gif' width=320 height=240>  
