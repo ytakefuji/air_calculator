@@ -25,11 +25,11 @@ Finally install aircalc
 
 $ pip install aircalc
 
-# How to run aircalc.py
+# How to run aircalc
 
-aircalc.py is a program for drawing an expression, for example, 4-5.
+aircalc is a program for drawing an expression, for example, 4-5.
 
-aircalc.py is based on mediapipe.
+aircalc is based on mediapipe.
 
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
@@ -75,7 +75,7 @@ Drawing "L" in the air represents "1".
 Drawing two letters "a" and "A" in the air represents the sqrt() function.
 Therefore, the string "a13A" or "aL3A" represents sqrt(13).
 
-$ python aircalc.py
+$ aircalc
 
 https://youtu.be/med_jrFTMPA
 <pre>  sqrt(6)*2=?    </pre>
