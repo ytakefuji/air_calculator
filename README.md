@@ -19,11 +19,17 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 And add tesseract.exe of Tesseract-OCR directory PATH in .profile or .bashrc.
 
-# How to run fingermath.py
+$ pip install mediapipe
 
-fingermath.py is a program for drawing an expression, for example, 4-5.
+Finally install aircalc
 
-fingermath.py is based on mediapipe.
+$ pip install aircalc
+
+# How to run aircalc.py
+
+aircalc.py is a program for drawing an expression, for example, 4-5.
+
+aircalc.py is based on mediapipe.
 
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
@@ -69,7 +75,7 @@ Drawing "L" in the air represents "1".
 Drawing two letters "a" and "A" in the air represents the sqrt() function.
 Therefore, the string "a13A" or "aL3A" represents sqrt(13).
 
-$ python fingermath.py
+$ python aircalc.py
 
 https://youtu.be/med_jrFTMPA
 <pre>  sqrt(6)*2=?    </pre>
