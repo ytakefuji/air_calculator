@@ -86,7 +86,9 @@ https://youtu.be/med_jrFTMPA
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/a6AM2.png' width=320 height=240>
 
 <pre>         1-3=?                                 10+2=?  </pre>
-[![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif) width=320 height=240]
+<img src='[![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif)]' 
+width=320 height=240>
+
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif' width=320 height=240> <img src='https://github.com/ytakefuji/air_calculator/raw/main/10plus2.gif' width=320 height=240>
 
 <pre>        4-5-3=?                                2-3/5=?   </pre>
