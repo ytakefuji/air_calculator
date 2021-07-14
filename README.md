@@ -104,7 +104,7 @@ https://youtu.be/med_jrFTMPA
 [![2^8.gif](https://github.com/ytakefuji/air_calculator/raw/main/2^8.gif)
 
 
-<pre>      2&9V3 --> 2**9/3                          2**9/3      </pre>
+<pre>      2&9V3 --> 2**9/3        </pre>
 [![2^9div3.gif](https://github.com/ytakefuji/air_calculator/raw/main/2^9div3.gif)
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/2^9div3.png' width=160 height=120> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2^9div3.png' width=120 height=90>
 
