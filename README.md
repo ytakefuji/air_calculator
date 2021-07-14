@@ -85,8 +85,8 @@ https://youtu.be/med_jrFTMPA
 <pre>  sqrt(6)*2=?    </pre>
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/a6AM2.png' width=320 height=240>
 
-<pre>         1-3=?                                 10+2=?  </pre>
-[![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif)](https://github.com/ytakefuji/air_calculator) [![10plus2.gif](https://github.com/ytakefuji/air_calculator/raw/main/10plus2.gif)](https://github.com/ytakefuji/air_calculator)
+<pre>         1-3=?                10+2=?  </pre>
+[![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif)](https://github.com/ytakefuji/air_calculator)    [![10plus2.gif](https://github.com/ytakefuji/air_calculator/raw/main/10plus2.gif)](https://github.com/ytakefuji/air_calculator)
 
 <pre>        4-5-3=?            </pre>
 [![4-5-3.gif](https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif) <img src='https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.png' width=160 height=120> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_4-5-3.png' width=120 height=90>
