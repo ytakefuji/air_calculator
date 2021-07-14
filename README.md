@@ -89,11 +89,11 @@ https://youtu.be/med_jrFTMPA
 [![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif)](https://github.com/ytakefuji/air_calculator) [![10plus2.gif](https://github.com/ytakefuji/air_calculator/raw/main/10plus2.gif)](https://github.com/ytakefuji/air_calculator)
 
 <pre>        4-5-3=?            </pre>
-[![4-5-3.gif](https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif)] <img src='https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.png' width=240 height=180> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_4-5-3.png' width=120 height=90>
+[![4-5-3.gif](https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif)] <img src='https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.png' width=120 height=90> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_4-5-3.png' width=120 height=90>
 
 <pre>        2-3/5=?   </pre>
 [![2-3div5.gif](https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.gif)]
-<img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.png' width=240 height=180> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2-3div5.png' width=120 height=90>
+<img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.png' width=120 height=90> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2-3div5.png' width=120 height=90>
 
 
 <pre>        34*5=?                         2**8=?</pre>
