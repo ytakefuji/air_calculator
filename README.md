@@ -108,9 +108,6 @@ https://youtu.be/med_jrFTMPA
 [![2^9div3.gif](https://github.com/ytakefuji/air_calculator/raw/main/2^9div3.gif)]
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/2^9div3.png' width=160 height=120> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2^9div3.png' width=120 height=90>
 
-<pre> 128v3=? -> 128/3=?     </pre>                  
-[![128V3.gif](https://github.com/ytakefuji/air_calculator/raw/main/128V3.gif)]
-
 <pre>       aLLAV3=? -> sqrt(11)/3 </pre>  
 [![aLLAV3.gif](https://github.com/ytakefuji/air_calculator/raw/main/aLLAV3.gif)]
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/aLLAV3.png' width=160 height=120> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_aLLAV3.png' width=120 height=90>
