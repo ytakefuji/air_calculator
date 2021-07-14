@@ -29,9 +29,10 @@ $ pip install aircalc
 
 # How to run aircalc
 
-aircalc is a program for drawing an expression, for example, 4-5.
+aircalc is a program for drawing a math expression 
+in the air for possible calculation.
 
-aircalc is based on mediapipe.
+aircalc is based on two open source libraries including mediapipe and tesseract.
 
 There are six states of five fingers recognized by mediapipe library: 
 0-finger, 1-finger, 2-finger, 3-finger, 4-finger, and 5-finger respectively.
@@ -42,11 +43,12 @@ by fingers.
 0-finger can move the pen without drawing. 
 1-finger can draw lines in the air. 
 2-finger can move the pen without drawing. 
-3-finger can delete elements of drawn letters for expression 
-correction.
-4-finger can transform hand-written letters to the digital text 
-for possible calculation.
-5-finger can can move the pen without drawing. 
+3-finger can delete the last touches of drawn letters for correction.
+4-finger can call tesseract for transforming the hand-writing 
+images to the digital text for possible calculation. 
+For several seconds, 4-finger can terminate the program 
+for showing the answer of the hand-drawn expression.
+5-finger can move the pen without drawing. 
 </pre>
 
 Continuous 4-finger state can terminate and exit this program.
