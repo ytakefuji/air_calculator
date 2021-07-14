@@ -88,8 +88,11 @@ https://youtu.be/med_jrFTMPA
 <pre>         1-3=?                                 10+2=?  </pre>
 [![Lw3.gif](https://github.com/ytakefuji/air_calculator/raw/main/Lw3.gif)](https://github.com/ytakefuji/air_calculator) [![10plus2.gif](https://github.com/ytakefuji/air_calculator/raw/main/10plus2.gif)](https://github.com/ytakefuji/air_calculator)
 
-<pre>        4-5-3=?                                2-3/5=?   </pre>
-<img src='https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif' width=320 height=240> <img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.gif' width=320 height=240>
+<pre>        4-5-3=?            </pre>
+[![4-5-3.gif](https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif)]
+
+<pre>        2-3/5=?   </pre>
+<img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.gif' width=320 height=240>
 
 <pre>        34*5=?                         2**8=?</pre>
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/34M5.gif' width=320 height=240> <img src='https://github.com/ytakefuji/air_calculator/raw/main/2^8.gif' width=320 height=240>  
