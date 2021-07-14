@@ -92,7 +92,9 @@ https://youtu.be/med_jrFTMPA
 [![4-5-3.gif](https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.gif)] <img src='https://github.com/ytakefuji/air_calculator/raw/main/4-5-3.png' width=240 height=180> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_4-5-3.png' width=120 height=90>
 
 <pre>        2-3/5=?   </pre>
-<img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.gif' width=320 height=240>
+[![2-3div5.gif](https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.gif)]
+<img src='https://github.com/ytakefuji/air_calculator/raw/main/2-3div5.png' width=240 height=180> <img src='https://github.com/ytakefuji/air_calculator/raw/main/resize_2-3div5.png' width=120 height=90>
+
 
 <pre>        34*5=?                         2**8=?</pre>
 <img src='https://github.com/ytakefuji/air_calculator/raw/main/34M5.gif' width=320 height=240> <img src='https://github.com/ytakefuji/air_calculator/raw/main/2^8.gif' width=320 height=240>  
