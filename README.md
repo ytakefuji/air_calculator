@@ -25,8 +25,6 @@ Finally install aircalc
 
 $ pip install aircalc
 
-# fingermath.py is renamed as aircalc.py
-
 # How to run aircalc
 
 aircalc is a program for drawing a math expression 
