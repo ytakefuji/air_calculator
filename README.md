@@ -3,7 +3,7 @@ aircalc is a Python program based on two state-of-the-art libraries including ha
 using mediapipe and optical character recognition library using tesseract. 
 aircalc can be easilly installed by pip command (PyPi).
 This short program is made for education by showing how to use two state-of-the-art libraries.
-aircalc has an error correction function for correcting drawn images in order to achieve perfect image recognition by tesseract.
+aircalc has an error correction function for correcting hand-drawn images in order to achieve perfect image recognition by tesseract.
 
 The paper on aircalc is under submission. If the paper is accepted, the source code will be disclosed with detailed explanations.
 
