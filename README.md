@@ -1,4 +1,9 @@
-# air_calculator
+# aircalc
+aircalc is a Python program based on the-state-of-the-art hand gesture recognition using mediapipe 
+and the optical character recognition using tesseract.
+The paper on aircalc is under submission. If the paper is accepted, the source code will be disclosed.
+
+The hand gesture recognition allows you to draw a math expression and it will be automatically calculated. The answer will be posted on the screen.
 
 Writing letters with a pen on paper is very different from drawing letters in the air.
 
