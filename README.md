@@ -7,6 +7,8 @@ aircalc has an error correction function for correcting hand-drawn images in ord
 
 The paper on aircalc is under submission. If the paper is accepted, the source code will be disclosed with detailed explanations.
 
+aircalc has been downloaded by 5568 users worldwide.
+
 The hand gesture recognition allows you to draw a math expression and it will be automatically calculated. The answer will be posted on the screen.
 
 Writing letters with a pen on paper is very different from drawing letters in the air.
