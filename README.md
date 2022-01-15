@@ -1,7 +1,7 @@
 # aircalc
 This is under review.
 
-aircalc has been downloaded by 6718 users worldwide.
+aircalc has been downloaded by 8105 users worldwide.
 
 aircalc is a Python program based on two state-of-the-art libraries including hand gesture recognition library 
 using mediapipe and optical character recognition library using tesseract. 
