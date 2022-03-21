@@ -38,6 +38,8 @@ Finally install aircalc
 
 $ pip install aircalc
 
+$ pip install aircalc --force-reinstall --no-cache-dir --no-binary :all:
+
 # How to run aircalc
 
 aircalc is a program for drawing a math expression 
